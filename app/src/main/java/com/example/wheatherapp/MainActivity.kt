@@ -13,7 +13,7 @@ import java.text.SimpleDateFormat
 import java.util.*
 
 class MainActivity : AppCompatActivity() {
-    var city: String = ""
+    var city: String = "ALMATY, KZ"
     var API: String = "d0b211ed869212512def652ac75b7b4d"
     override fun onCreate(savedInstanceState: Bundle?) {
 
